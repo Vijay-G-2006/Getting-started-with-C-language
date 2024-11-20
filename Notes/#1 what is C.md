@@ -9,4 +9,4 @@ Because of its speed, efficiency, and simplicity, C is called the "Mother of pro
 Many modern languages, like C++, Java, and Python, are based on C.
 
 It's widely used for building system software, operating systems, games, and applications
-To run very fast and efficiently.
+to run very fast and efficiently.
